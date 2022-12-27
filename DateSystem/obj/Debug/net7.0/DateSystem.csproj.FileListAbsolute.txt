@@ -1,0 +1,15 @@
+C:\dev\projetos\DateSystem\bin\Debug\net7.0\DateSystem.exe
+C:\dev\projetos\DateSystem\bin\Debug\net7.0\DateSystem.deps.json
+C:\dev\projetos\DateSystem\bin\Debug\net7.0\DateSystem.runtimeconfig.json
+C:\dev\projetos\DateSystem\bin\Debug\net7.0\DateSystem.dll
+C:\dev\projetos\DateSystem\bin\Debug\net7.0\DateSystem.pdb
+C:\dev\projetos\DateSystem\obj\Debug\net7.0\DateSystem.csproj.AssemblyReference.cache
+C:\dev\projetos\DateSystem\obj\Debug\net7.0\DateSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projetos\DateSystem\obj\Debug\net7.0\DateSystem.AssemblyInfoInputs.cache
+C:\dev\projetos\DateSystem\obj\Debug\net7.0\DateSystem.AssemblyInfo.cs
+C:\dev\projetos\DateSystem\obj\Debug\net7.0\DateSystem.csproj.CoreCompileInputs.cache
+C:\dev\projetos\DateSystem\obj\Debug\net7.0\DateSystem.dll
+C:\dev\projetos\DateSystem\obj\Debug\net7.0\refint\DateSystem.dll
+C:\dev\projetos\DateSystem\obj\Debug\net7.0\DateSystem.pdb
+C:\dev\projetos\DateSystem\obj\Debug\net7.0\DateSystem.genruntimeconfig.cache
+C:\dev\projetos\DateSystem\obj\Debug\net7.0\ref\DateSystem.dll
