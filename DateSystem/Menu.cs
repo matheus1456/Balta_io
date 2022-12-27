@@ -30,7 +30,7 @@ namespace DateSystem
             WriteOption(3, 2, "DATE SYSTEM");
             WriteOption(3, 4, "Menu de Opções:");
             WriteOption(3, 5, "1 - Verificar UTC Local");
-            WriteOption(3, 6, "2 - Verificar horário atual da sua máquina");
+            WriteOption(3, 6, "2 - Verificar data atual da sua máquina");
             WriteOption(3, 7, "3 - Listar time zones ao redor do mundo");
             WriteOption(3, 8, "4 - Verificar quantos dias tem o mês atual");
             WriteOption(3, 9, "5 - Fechar Aplicação");
